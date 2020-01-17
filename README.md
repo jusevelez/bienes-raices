@@ -1,2 +1,2 @@
 # bienes-raices
-Sitio web en HTML y CSS 
+Sitio web desarrollado en HTML y CSS 
